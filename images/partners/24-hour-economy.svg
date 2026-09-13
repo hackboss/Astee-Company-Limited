@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 120" width="400" height="120">
+  <defs>
+    <linearGradient id="gradGhana" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0c2b5e"/>
+      <stop offset="100%" stop-color="#1a4a8f"/>
+    </linearGradient>
+    <linearGradient id="flagRed" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#ce1126"/>
+      <stop offset="100%" stop-color="#e52b38"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Circular 24-Hour Arrow & Clock Icon -->
+  <g transform="translate(15, 10)">
+    <!-- Outer clock ring track -->
+    <circle cx="50" cy="50" r="44" fill="none" stroke="#e2e8f0" stroke-width="4"/>
+    
+    <!-- Dynamic 24h rotating arrow ring -->
+    <path d="M 50 6 A 44 44 0 1 1 12 68" fill="none" stroke="#0c2b5e" stroke-width="6" stroke-linecap="round"/>
+    <polygon points="12,54 2,74 24,72" fill="#0c2b5e"/>
+
+    <!-- Ghana Flag Accent Arc -->
+    <path d="M 50 14 A 36 36 0 0 1 86 50" fill="none" stroke="#ce1126" stroke-width="4" stroke-linecap="round"/>
+    <path d="M 86 50 A 36 36 0 0 1 65 82" fill="none" stroke="#fcd116" stroke-width="4" stroke-linecap="round"/>
+    <path d="M 65 82 A 36 36 0 0 1 28 78" fill="none" stroke="#006b3f" stroke-width="4" stroke-linecap="round"/>
+
+    <!-- Clock Center Hub -->
+    <circle cx="50" cy="50" r="28" fill="#ffffff" stroke="#0c2b5e" stroke-width="2"/>
+    
+    <!-- Clock Hands (24h Symbolism) -->
+    <line x1="50" y1="50" x2="50" y2="30" stroke="#ce1126" stroke-width="3" stroke-linecap="round"/>
+    <line x1="50" y1="50" x2="66" y2="50" stroke="#0c2b5e" stroke-width="3" stroke-linecap="round"/>
+    <circle cx="50" cy="50" r="4" fill="#0c2b5e"/>
+    
+    <!-- Mini Black Star of Ghana -->
+    <polygon points="50,44 51.5,47.5 55,47.5 52,49.5 53,53 50,51 47,53 48,49.5 45,47.5 48.5,47.5" fill="#000000"/>
+  </g>
+
+  <!-- Typography -->
+  <g transform="translate(125, 20)">
+    <!-- 24 HOUR text -->
+    <text x="0" y="36" font-family="'Poppins', 'Segoe UI', sans-serif" font-weight="900" font-size="34" fill="#0c2b5e" letter-spacing="1">
+      24<tspan fill="#ce1126">HOUR</tspan>
+    </text>
+    
+    <!-- ECONOMY text -->
+    <text x="0" y="65" font-family="'Poppins', 'Segoe UI', sans-serif" font-weight="800" font-size="24" fill="#0c2b5e" letter-spacing="4">
+      ECONOMY
+    </text>
+    
+    <!-- Subtitle -->
+    <text x="2" y="84" font-family="'Inter', 'Segoe UI', sans-serif" font-weight="700" font-size="11" fill="#64748b" letter-spacing="2.5">
+      NATIONAL INITIATIVE &bull; GHANA
+    </text>
+    
+    <!-- Underline ribbon -->
+    <rect x="0" y="90" width="80" height="3" fill="#ce1126"/>
+    <rect x="80" y="90" width="60" height="3" fill="#fcd116"/>
+    <rect x="140" y="90" width="80" height="3" fill="#006b3f"/>
+  </g>
+</svg>

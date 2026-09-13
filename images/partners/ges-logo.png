@@ -1,0 +1,543 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Ghana Education Service - Official Website. Transforming Education for National Development.">
+    <title>Home - Ghana Education Service</title>
+    
+    <!-- Favicon -->
+    <link rel="icon" type="image/png" href="https://ges.gov.gh/assets/images/logo.png">
+    
+    <!-- Stylesheets -->
+    <link rel="stylesheet" href="https://ges.gov.gh/assets/css/style.css">
+    
+    <!-- Font Awesome -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    
+    </head>
+<body>
+    <!-- Top Bar -->
+    <div class="top-bar">
+        <div class="container">
+            <div class="top-bar-left">
+                <a href="tel:030 297 7663 | 030 297 7667  |  030 297 7668">
+                    <i class="fas fa-phone"></i>
+                    030 297 7663 | 030 297 7667  |  030 297 7668                </a>
+                <a href="mailto:info@ges.gov.gh">
+                    <i class="fas fa-envelope"></i>
+                    info@ges.gov.gh                </a>
+            </div>
+            <div class="top-bar-right">
+                <div class="social-links">
+                                            <a href="https://web.facebook.com/ges.gov.gh/?ref=page_internal" target="_blank" title="Facebook">
+                            <i class="fab fa-facebook-f"></i>
+                        </a>
+                                                                <a href="https://twitter.com/gheduservice?s=11" target="_blank" title="Twitter">
+                            <i class="fab fa-twitter"></i>
+                        </a>
+                                                                <a href="https://instagram.com/gheduservice?" target="_blank" title="LinkedIn">
+                            <i class="fab fa-linkedin-in"></i>
+                        </a>
+                                                                <a href="https://www.youtube.com/channel/UCFDGcTNgADMaBQF1QoJtnNg/videos" target="_blank" title="YouTube">
+                            <i class="fab fa-youtube"></i>
+                        </a>
+                                    </div>
+            </div>
+        </div>
+    </div>
+    
+    <!-- Main Header -->
+    <header class="main-header">
+        <div class="container">
+            <div class="header-content">
+                <div class="logo-section">
+                    <a href="https://ges.gov.gh" class="logo-link">
+                        <img src="https://ges.gov.gh/assets/images/logo.png" alt="GES Logo" class="logo-img">
+                    </a>
+                    <div class="logo-text">
+                        <h1>Ghana Education Service</h1>
+                        <p>Transforming Education for National Development</p>
+                    </div>
+                </div>
+                <div class="header-actions">
+                    <a href="https://ges.gov.gh/school-directory.php" class="header-btn header-btn-primary">
+                        <i class="fas fa-search"></i> Find School
+                    </a>
+                    <button class="mobile-menu-toggle">☰</button>
+                </div>
+            </div>
+        </div>
+    </header>
+    
+    <!-- Navigation -->
+    <nav class="main-nav">
+        <div class="container">
+            <ul class="nav-menu">
+                <li class="active">
+                    <a href="https://ges.gov.gh">HOME</a>
+                </li>
+                <li>
+                    <a href="#">ABOUT GES</a>
+                    <ul class="dropdown-menu">
+                        <li><a href="https://ges.gov.gh/page.php?slug=history">History of GES</a></li>
+                        <li><a href="https://ges.gov.gh/page.php?slug=mandate-vision">Mandate & Vision</a></li>
+                        <li><a href="https://ges.gov.gh/page.php?slug=organisational-structure">Organisational Structure</a></li>
+                    </ul>
+                </li>
+                <li>
+                    <a href="https://ges.gov.gh/leadership.php">LEADERSHIP</a>
+                    <ul class="dropdown-menu">
+                        <li><a href="https://ges.gov.gh/leadership.php?category=director_general">Director-General</a></li>
+                        <li><a href="https://ges.gov.gh/leadership.php?category=deputy_director_general">Deputy Director-Generals</a></li>
+                        <li><a href="https://ges.gov.gh/leadership.php?category=former_director_general">Former Director-Generals</a></li>
+                        <li><a href="https://ges.gov.gh/leadership.php?category=council_member">Council Members</a></li>
+                    </ul>
+                </li>
+                <li>
+                    <a href="#">GOVERNANCE & ADMINISTRATION</a>
+                    <ul class="dropdown-menu">
+                        <li><a href="https://ges.gov.gh/directorates.php?type=headquarters">Headquarters Directorates</a></li>
+                        <li><a href="https://ges.gov.gh/directorates.php?type=unit">Headquarters Units</a></li>
+                        <li><a href="https://ges.gov.gh/regions.php">Regional Directorates</a></li>
+                        <li><a href="https://ges.gov.gh/districts.php">District Directorates</a></li>
+                        <li><a href="https://ges.gov.gh/schools.php">School Management</a></li>
+                    </ul>
+                </li>
+                <li>
+                    <a href="#">SERVICES & RESOURCES</a>
+                    <ul class="dropdown-menu">
+                        <li><a href="https://ges.gov.gh/resources.php?category=policy">Policies & Guidelines</a></li>
+                        <li><a href="https://ges.gov.gh/resources.php?category=circular">Circulars & Notices</a></li>
+                        <li><a href="https://ges.gov.gh/resources.php?category=curriculum">Curriculum Materials</a></li>
+                        <li><a href="https://ges.gov.gh/resources.php?category=teacher_resource">Teacher Resources</a></li>
+                        <li><a href="https://ges.gov.gh/resources.php?category=student_resource">Student Resources</a></li>
+                        <li><a href="https://ges.gov.gh/resources.php?category=download">Downloads</a></li>
+                    </ul>
+                </li>
+                <li>
+                    <a href="https://ges.gov.gh/school-directory.php">SCHOOL DATA</a>
+                </li>
+                <li>
+                    <a href="https://ges.gov.gh/programmes.php">PROGRAMMES & INITIATIVES</a>
+                </li>
+                <li>
+                    <a href="#">IDEAS & ADVOCACY</a>
+                    <ul class="dropdown-menu">
+                        <li><a href="https://ges.gov.gh/articles.php">Articles & Stories</a></li>
+                           <li><a href="https://ges.gov.gh/teachers-corner.php">My Teacher My Story</a></li>
+                           <!--<li><a href="https://ges.gov.gh/learner-space.php">Learner Space</a></li>-->
+                        <li><a href="https://ges.gov.gh/gallery.php?type=image">Photo Gallery</a></li>
+                        <li><a href="https://ges.gov.gh/gallery.php?type=video">Video Gallery</a></li>
+                        <li><a href="https://ges.gov.gh/events.php">Events</a></li>
+                    </ul>
+                </li>
+                <li>
+                    <a href="https://ges.gov.gh/contact.php">CONTACT US</a>
+                </li>
+            </ul>
+        </div>
+    </nav>
+    
+    </body>
+</html>
+<!-- Hero Slider -->
+<section class="hero-slider">
+    <div class="slider-container">
+                                    <div class="slide active">
+                    <img src="https://ges.gov.gh/assets/uploads/sliders/692f1066cb0e8_1764692070.jpg" alt="Welcome to Ghana Education Service">
+                    <div class="slide-overlay">
+                        <div class="slide-content">
+                                                            <h2>Welcome to Ghana Education Service</h2>
+                                                                                        <p>Transforming Education for National Development</p>
+                                                                                        <a href="https://ges.gov.gh/gesweb/page.php?slug=history" class="btn">Learn More</a>
+                                                    </div>
+                    </div>
+                </div>
+                        
+            <!-- Slider Controls -->
+            <button class="slider-arrow prev">‹</button>
+            <button class="slider-arrow next">›</button>
+            
+            <div class="slider-controls">
+                                    <span class="slider-dot active"></span>
+                            </div>
+            </div>
+</section>
+
+<!-- About GES Section -->
+<section class="section">
+    <div class="container">
+        <div class="section-title">
+            <h2>About Ghana Education Service</h2>
+            <p>Learn more about our mission, vision, and organizational structure</p>
+        </div>
+        
+        <div class="card-grid" style="grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));">
+            <div class="card">
+                <div class="card-content">
+                    <div style="text-align: center; margin-bottom: 20px;">
+                        <div style="width: 80px; height: 80px; background: linear-gradient(135deg, var(--primary-color), var(--secondary-color)); border-radius: 50%; display: flex; align-items: center; justify-content: center; margin: 0 auto;">
+                            <i class="fas fa-history" style="font-size: 2rem; color: #fff;"></i>
+                        </div>
+                    </div>
+                    <h3 class="card-title" style="text-align: center;">Our History</h3>
+                    <p>Discover the rich history and evolution of the Ghana Education Service from its inception to the present day.</p>
+                    <div style="text-align: center; margin-top: 20px;">
+                        <a href="https://ges.gov.gh/page.php?slug=history" class="btn btn-primary">Learn More</a>
+                    </div>
+                </div>
+            </div>
+            
+            <div class="card">
+                <div class="card-content">
+                    <div style="text-align: center; margin-bottom: 20px;">
+                        <div style="width: 80px; height: 80px; background: linear-gradient(135deg, var(--secondary-color), var(--primary-color)); border-radius: 50%; display: flex; align-items: center; justify-content: center; margin: 0 auto;">
+                            <i class="fas fa-bullseye" style="font-size: 2rem; color: #fff;"></i>
+                        </div>
+                    </div>
+                    <h3 class="card-title" style="text-align: center;">Mandate & Vision</h3>
+                    <p>Explore our mandate, vision, and mission as we work towards transforming education for national development.</p>
+                    <div style="text-align: center; margin-top: 20px;">
+                        <a href="https://ges.gov.gh/page.php?slug=mandate-vision" class="btn btn-primary">Learn More</a>
+                    </div>
+                </div>
+            </div>
+            
+            <div class="card">
+                <div class="card-content">
+                    <div style="text-align: center; margin-bottom: 20px;">
+                        <div style="width: 80px; height: 80px; background: linear-gradient(135deg, var(--primary-color), var(--accent-color)); border-radius: 50%; display: flex; align-items: center; justify-content: center; margin: 0 auto;">
+                            <i class="fas fa-sitemap" style="font-size: 2rem; color: #fff;"></i>
+                        </div>
+                    </div>
+                    <h3 class="card-title" style="text-align: center;">Organizational Structure</h3>
+                    <p>Understand our organizational structure and how we coordinate education delivery across Ghana.</p>
+                    <div style="text-align: center; margin-top: 20px;">
+                        <a href="https://ges.gov.gh/page.php?slug=organisational-structure" class="btn btn-primary">Learn More</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- Articles &amp; Stories Section -->
+<section class="section" style="background-color: #f8f9fa;">
+    <div class="container">
+        <div class="section-title">
+            <h2>Latest Articles &amp; Stories</h2>
+            <p>Stay updated with the latest news and stories from GES</p>
+        </div>
+        
+        <div class="small-card-grid">
+                            <div class="small-card">
+                    <div class="small-card-icon">
+                        <i class="fas fa-newspaper"></i>
+                    </div>
+                    <h3>GES SUCCESSFULLY CONCLUDES 17TH NATIONAL FESTIVAL OF ARTS AND CULTURE FOR BASIC SCHOOLS IN TECHIMAN</h3>
+                    <p>GES SUCCESSFULLY CONCLUDES 17TH NATIONAL FESTIVAL OF ARTS AND CULTURE FOR BASIC SCHOOLS IN TECHIMAN</p>
+                    <a href="https://ges.gov.gh/article.php?slug=ges-successfully-concludes-17th-national-festival-of-arts-and-culture-for-basic-schools-in-techiman" class="btn btn-sm btn-primary">Read More</a>
+                </div>
+                            <div class="small-card">
+                    <div class="small-card-icon">
+                        <i class="fas fa-newspaper"></i>
+                    </div>
+                    <h3>Girls in Tech STEM Camp Inspires Future Women Innovators</h3>
+                    <p>Girls in Tech STEM Camp Inspires Future Women Innovators</p>
+                    <a href="https://ges.gov.gh/article.php?slug=girls-in-tech-stem-camp-inspires-future-women-innovators" class="btn btn-sm btn-primary">Read More</a>
+                </div>
+                            <div class="small-card">
+                    <div class="small-card-icon">
+                        <i class="fas fa-newspaper"></i>
+                    </div>
+                    <h3>35th Inter-Regional Basic Schools Sports Festival Officially Opens!</h3>
+                    <p>35th Inter-Regional Basic Schools Sports Festival Officially Opens!</p>
+                    <a href="https://ges.gov.gh/article.php?slug=35th-inter-regional-basic-schools-sports-festival-officially-opens" class="btn btn-sm btn-primary">Read More</a>
+                </div>
+                            <div class="small-card">
+                    <div class="small-card-icon">
+                        <i class="fas fa-newspaper"></i>
+                    </div>
+                    <h3>MENSTRUAL HYGIENE DAY CELEBRATION 2026</h3>
+                    <p>Menstrual health and hygiene remain a key issue among girls and concerned education stakeholders due...</p>
+                    <a href="https://ges.gov.gh/article.php?slug=menstrual-hygiene-day-celebration-2026" class="btn btn-sm btn-primary">Read More</a>
+                </div>
+                    </div>
+        
+        <div class="text-center mt-3">
+            <a href="https://ges.gov.gh/articles.php" class="btn btn-secondary">View All Articles</a>
+        </div>
+    </div>
+</section>
+<!--
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2427633896276483"
+     crossorigin="anonymous"></script>
+-->
+<!-- Events Section -->
+
+<!-- Downloads Section -->
+<section class="section" style="background-color: #f8f9fa;">
+    <div class="container">
+        <div class="section-title">
+            <h2>Downloads</h2>
+            <p>Access important documents and resources</p>
+        </div>
+        
+        <div class="small-card-grid">
+                            <div class="small-card">
+                    <div class="small-card-icon">
+                        <i class="fas fa-download"></i>
+                    </div>
+                    <h3>2025 RTI Manual</h3>
+                                        <a href="https://ges.gov.gh/assets/uploads/documents/692f10aa69e67_1764692138.pdf" class="btn btn-sm btn-primary" download>
+                        <i class="fas fa-download"></i> Download
+                    </a>
+                </div>
+                            <div class="small-card">
+                    <div class="small-card-icon">
+                        <i class="fas fa-download"></i>
+                    </div>
+                    <h3>2024 RTI Manual</h3>
+                                        <a href="https://ges.gov.gh/assets/uploads/documents/692f10c5e59a6_1764692165.pdf" class="btn btn-sm btn-primary" download>
+                        <i class="fas fa-download"></i> Download
+                    </a>
+                </div>
+                    </div>
+        
+        <div class="text-center mt-3">
+            <a href="https://ges.gov.gh/resources.php?category=download" class="btn btn-secondary">View All Downloads</a>
+        </div>
+    </div>
+</section>
+
+<!-- Leadership Section -->
+<section class="section">
+    <div class="container">
+        <div class="section-title">
+            <h2>Our Leadership</h2>
+            <p>Meet the dedicated leaders driving educational excellence in Ghana</p>
+        </div>
+        
+        <div class="leadership-grid">
+                            <div class="leader-card">
+                    <div class="leader-image">
+                                                    <img src="https://ges.gov.gh/assets/uploads/directors/692f10f1a5770_1764692209.jpeg" alt="Prof. Ernest Kofi Davis">
+                                            </div>
+                    <div class="leader-info">
+                        <h3>Prof. Ernest Kofi Davis</h3>
+                        <p class="position">Director-General</p>
+                                                    <p>
+
+
+
+
+Professor Ernest Kofi Davis is a renowned scholar and educator with a wealth of experience...</p>
+                                            </div>
+                </div>
+                        
+                            <div class="leader-card">
+                    <div class="leader-image">
+                                                    <img src="https://ges.gov.gh/assets/uploads/directors/692f1105b72cd_1764692229.jpg" alt="Prof. (Mrs.) Smile Gavua Dzisi">
+                                            </div>
+                    <div class="leader-info">
+                        <h3>Prof. (Mrs.) Smile Gavua Dzisi</h3>
+                        <p class="position">Deputy Director General – Management Services</p>
+                                                    <p>Prof. Smile Dzisi is a renowned academic with over twenty-five years of rich experience and expertis...</p>
+                                            </div>
+                </div>
+                            <div class="leader-card">
+                    <div class="leader-image">
+                                                    <img src="https://ges.gov.gh/assets/uploads/directors/692f11235e115_1764692259.jpg" alt="Dr. Issahaque Munawaru">
+                                            </div>
+                    <div class="leader-info">
+                        <h3>Dr. Issahaque Munawaru</h3>
+                        <p class="position">Deputy Director General - Quality And Access</p>
+                                                    <p>Dr. Issahaque Munawaru is the Deputy Director-General for Quality and Access of the Ghana Education ...</p>
+                                            </div>
+                </div>
+                    </div>
+        
+        <div class="text-center mt-3">
+            <a href="https://ges.gov.gh/leadership.php" class="btn btn-primary">View All Leadership</a>
+        </div>
+    </div>
+</section>
+
+<!-- Quick Links Section -->
+<section class="section" style="background: linear-gradient(135deg, var(--secondary-color), var(--dark-color)); color: #fff;">
+    <div class="container">
+        <div class="section-title">
+            <h2 style="color: var(--primary-color);">Quick Access</h2>
+            <p style="color: #fff;">Find what you need quickly</p>
+        </div>
+        
+        <div class="card-grid" style="grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));">
+            <a href="https://ges.gov.gh/school-directory.php" style="text-decoration: none;">
+                <div class="card" style="background: rgba(255,255,255,0.1); border: 2px solid rgba(212, 175, 55, 0.3); transition: all 0.3s ease;">
+                    <div class="card-content" style="text-align: center;">
+                        <i class="fas fa-school" style="font-size: 3rem; color: var(--primary-color); margin-bottom: 15px;"></i>
+                        <h3 style="color: #fff; margin-bottom: 10px;">School Directory</h3>
+                        <p style="color: #ccc;">Search for schools across Ghana</p>
+                    </div>
+                </div>
+            </a>
+            
+            <a href="https://ges.gov.gh/resources.php" style="text-decoration: none;">
+                <div class="card" style="background: rgba(255,255,255,0.1); border: 2px solid rgba(212, 175, 55, 0.3); transition: all 0.3s ease;">
+                    <div class="card-content" style="text-align: center;">
+                        <i class="fas fa-folder-open" style="font-size: 3rem; color: var(--primary-color); margin-bottom: 15px;"></i>
+                        <h3 style="color: #fff; margin-bottom: 10px;">Resources</h3>
+                        <p style="color: #ccc;">Access policies and documents</p>
+                    </div>
+                </div>
+            </a>
+            
+            <a href="https://ges.gov.gh/programmes.php" style="text-decoration: none;">
+                <div class="card" style="background: rgba(255,255,255,0.1); border: 2px solid rgba(212, 175, 55, 0.3); transition: all 0.3s ease;">
+                    <div class="card-content" style="text-align: center;">
+                        <i class="fas fa-project-diagram" style="font-size: 3rem; color: var(--primary-color); margin-bottom: 15px;"></i>
+                        <h3 style="color: #fff; margin-bottom: 10px;">Programmes</h3>
+                        <p style="color: #ccc;">Explore our initiatives</p>
+                    </div>
+                </div>
+            </a>
+            
+            <a href="https://ges.gov.gh/contact.php" style="text-decoration: none;">
+                <div class="card" style="background: rgba(255,255,255,0.1); border: 2px solid rgba(212, 175, 55, 0.3); transition: all 0.3s ease;">
+                    <div class="card-content" style="text-align: center;">
+                        <i class="fas fa-phone-alt" style="font-size: 3rem; color: var(--primary-color); margin-bottom: 15px;"></i>
+                        <h3 style="color: #fff; margin-bottom: 10px;">Contact Us</h3>
+                        <p style="color: #ccc;">Get in touch with us</p>
+                    </div>
+                </div>
+            </a>
+        </div>
+    </div>
+</section>
+
+<!-- Statistics Section -->
+<section class="section">
+    <div class="container">
+        <div class="section-title">
+            <h2>GES at a Glance</h2>
+            <p>Key statistics about education in Ghana</p>
+        </div>
+        
+        <div class="card-grid" style="grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));">
+            <div class="card" style="text-align: center; background: linear-gradient(135deg, var(--primary-color), #f4d03f);">
+                <div class="card-content">
+                    <i class="fas fa-school" style="font-size: 3rem; color: var(--dark-color); margin-bottom: 10px;"></i>
+                    <h2 style="font-size: 2.5rem; color: var(--dark-color); margin: 10px 0;">16</h2>
+                    <p style="color: var(--dark-color); font-weight: 600;">Regions</p>
+                </div>
+            </div>
+            
+            <div class="card" style="text-align: center; background: linear-gradient(135deg, var(--secondary-color), #00a86b);">
+                <div class="card-content">
+                    <i class="fas fa-map-marked-alt" style="font-size: 3rem; color: #fff; margin-bottom: 10px;"></i>
+                    <h2 style="font-size: 2.5rem; color: #fff; margin: 10px 0;">261</h2>
+                    <p style="color: #fff; font-weight: 600;">Districts</p>
+                </div>
+            </div>
+            
+            <div class="card" style="text-align: center; background: linear-gradient(135deg, var(--accent-color), #ff6b6b);">
+                <div class="card-content">
+                    <i class="fas fa-graduation-cap" style="font-size: 3rem; color: #fff; margin-bottom: 10px;"></i>
+                    <h2 style="font-size: 2.5rem; color: #fff; margin: 10px 0;">40,000+</h2>
+                    <p style="color: #fff; font-weight: 600;">Schools</p>
+                </div>
+            </div>
+            
+            <div class="card" style="text-align: center; background: linear-gradient(135deg, #3498db, #2980b9);">
+                <div class="card-content">
+                    <i class="fas fa-users" style="font-size: 3rem; color: #fff; margin-bottom: 10px;"></i>
+                    <h2 style="font-size: 2.5rem; color: #fff; margin: 10px 0;">9M+</h2>
+                    <p style="color: #fff; font-weight: 600;">Students</p>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- Footer -->
+    <footer class="footer">
+        <div class="footer-top">
+            <div class="container">
+                <div class="footer-content">
+                    <div class="footer-section">
+                        <h3>ABOUT GES</h3>
+                        <p>The Ghana Education Service (GES) is responsible for the implementation of approved national policies on education and the day-to-day administration of pre-tertiary education in Ghana.</p>
+                        <div class="social-links">
+                                                            <a href="https://web.facebook.com/ges.gov.gh/?ref=page_internal" target="_blank" title="Facebook" class="social-icon">
+                                    <i class="fab fa-facebook-f"></i>
+                                </a>
+                                                                                        <a href="https://twitter.com/gheduservice?s=11" target="_blank" title="Twitter" class="social-icon">
+                                    <i class="fab fa-twitter"></i>
+                                </a>
+                                                                                        <a href="https://instagram.com/gheduservice?" target="_blank" title="LinkedIn" class="social-icon">
+                                    <i class="fab fa-linkedin-in"></i>
+                                </a>
+                                                                                        <a href="https://www.youtube.com/channel/UCFDGcTNgADMaBQF1QoJtnNg/videos" target="_blank" title="YouTube" class="social-icon">
+                                    <i class="fab fa-youtube"></i>
+                                </a>
+                                                    </div>
+                    </div>
+                    
+                    <div class="footer-section">
+                        <h3>QUICK LINKS</h3>
+                        <ul class="footer-links">
+                            <li><a href="https://ges.gov.gh">HOME</a></li>
+                            <li><a href="https://ges.gov.gh/page.php?slug=history">ABOUT GES</a></li>
+                            <li><a href="https://ges.gov.gh/leadership.php">LEADERSHIP</a></li>
+                            <li><a href="https://ges.gov.gh/school-directory.php">SCHOOL DIRECTORY</a></li>
+                            <li><a href="https://ges.gov.gh/articles.php">NEWS & ARTICLES</a></li>
+                            <li><a href="https://ges.gov.gh/contact.php">CONTACT US</a></li>
+                        </ul>
+                    </div>
+                    
+                    <div class="footer-section">
+                        <h3>RESOURCES</h3>
+                        <ul class="footer-links">
+                            <li><a href="https://ges.gov.gh/resources.php?category=policy">POLICIES & GUIDELINES</a></li>
+                            <li><a href="https://ges.gov.gh/resources.php?category=circular">CIRCULARS & NOTICES</a></li>
+                            <li><a href="https://ges.gov.gh/resources.php?category=curriculum">CURRICULUM MATERIALS</a></li>
+                            <li><a href="https://ges.gov.gh/resources.php?category=teacher_resource">TEACHER RESOURCES</a></li>
+                            <li><a href="https://ges.gov.gh/resources.php?category=download">DOWNLOADS</a></li>
+                        </ul>
+                    </div>
+                    
+                    <div class="footer-section">
+                        <h3>CONTACT INFO</h3>
+                        <div class="contact-item">
+                            <i class="fas fa-map-marker-alt"></i>
+                            <span>P.O. Box M.45, Ministries Post Office, Accra</span>
+                        </div>
+                        <div class="contact-item">
+                            <i class="fas fa-phone"></i>
+                            <span>030 297 7663 | 030 297 7667  |  030 297 7668</span>
+                        </div>
+                        <div class="contact-item">
+                            <i class="fas fa-envelope"></i>
+                            <span>info@ges.gov.gh</span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        
+        <div class="footer-bottom">
+            <div class="container">
+                <div class="footer-bottom-content">
+                    <p>&copy; 2026 GHANA EDUCATION SERVICE. ALL RIGHTS RESERVED.</p>
+                    <p>DEVELOPED BY <a href="#" target="_blank">GES HQ ICT</a></p>
+                </div>
+            </div>
+        </div>
+    </footer>
+    
+    <!-- JavaScript -->
+    <script src="https://ges.gov.gh/assets/js/main.js"></script>
+    
+    </body>
+</html>
